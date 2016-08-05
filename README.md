@@ -1,4 +1,4 @@
-This is a [Docker](http://docker.com) [Compose](https://docs.docker.com/compose/) script for bringing up a [Wordpress](http://wordpress.org) site backed with [MariaDB](https://mariadb.org/). To use this, make sure you've [installed Docker)](https://www.docker.com/products/docker), [installed Compose](https://docs.docker.com/compose/install/) and then do the following:
+This is a [Docker](http://docker.com) [Compose](https://docs.docker.com/compose/) script for bringing up a [Wordpress](http://wordpress.org) site backed with [MariaDB](https://mariadb.org/). To use this, make sure you've [installed Docker](https://www.docker.com/products/docker), [installed Compose](https://docs.docker.com/compose/install/) and then do the following:
 
 1) Clone this repo with ```git clone https://github.com/jbfink/c4lnys-wordpress```
 
