@@ -6,7 +6,7 @@ This is a [Docker](http://docker.com) [Compose](https://docs.docker.com/compose/
 
 3) Wait a bit for the two Docker containers to come up.
 
-4) Visit [https://localhost:8080](https://localhost:8080) in a web browser and set up Wordpress.
+4) Visit [http://localhost:8080](http://localhost:8080) in a web browser and set up Wordpress.
 
 Note that you can ```ctrl-c``` in the terminal you ran ```docker-compuse up``` to stop. Running ```docker-compose up``` again should pick up where you left off, but if you want to start again from scratch do ```docker-compose rm``` to remove the old containers and ```docker-compose up``` to start again from scratch.
 
